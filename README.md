@@ -1,5 +1,5 @@
 # React-Vite-Todo-App
-session is saved
+// app saves the session
 
 1. download the code
 2. open it in vscode
